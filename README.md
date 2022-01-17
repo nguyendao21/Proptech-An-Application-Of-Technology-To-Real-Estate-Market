@@ -42,7 +42,7 @@ from pathlib import Path
 
 ![pricing-info-by-neighborhood](https://user-images.githubusercontent.com/94591580/149703914-da014566-06aa-4b07-8523-8a77cdc6a85e.png)
 
-*An Interactive Neighborhood Map*
+*An Interactive Neighborhood Map in San Francisco*
 
 ![6-4-geoviews-plot](https://user-images.githubusercontent.com/94591580/149703922-3aac4da5-fb65-41d8-9ffa-0e9ad0744602.png)
 
