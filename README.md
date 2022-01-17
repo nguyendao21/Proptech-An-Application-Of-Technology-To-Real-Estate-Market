@@ -33,6 +33,10 @@ from pathlib import Path
 
 ![zoomed-housing-units-by-year](https://user-images.githubusercontent.com/94591580/149703902-f00547d1-8ef1-4156-b27e-da6effa18913.png)
 
+*A line plot chart that visualize the average sale prices per Square Foot
+
+![avg-sale-px-sq-foot-gross-rent](https://user-images.githubusercontent.com/94591580/149704718-64339e36-7a6c-4754-ab0f-136d0a611cf0.png)
+
 
 *A line plot chart that visualize the average sales prices by Neighboorhood*
 
